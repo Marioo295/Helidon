@@ -1,0 +1,6 @@
+#Helidon Project Configuration
+#Tue Dec 27 10:06:34 CET 2022
+schema.version=1.1.0
+helidon.version=3.1.0
+project.flavor=se
+project.archetype=database
